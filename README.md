@@ -12,3 +12,7 @@ The application is dedicated to dentists so that it completely manages the affai
 * ![example 5](https://github.com/AbdulrhmanSayedAli/My-Clinic/blob/main/my%20clinic%205.png)
 
 
+# download link from github :
+
+<button name="button" onclick="[http://www.google.com](https://github.com/AbdulrhmanSayedAli/My-Clinic/blob/main/My%20Clinic.apk)">Download</button>
+
