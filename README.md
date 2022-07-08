@@ -6,7 +6,7 @@ The application is dedicated to dentists so that it completely manages the affai
  - Add and arrange appointment schedules  
  - And many more features that can be identified by downloading the application
 
-# download link from github :
+# download link:
 
 [Download](https://drive.google.com/file/d/1NPrcMA_GWpf4yhREXP8Np1NplqSYXxvV/view?usp=sharing)
 
