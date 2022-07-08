@@ -5,8 +5,6 @@ The application is dedicated to dentists so that it completely manages the affai
 
 * ![example 1](https://github.com/AbdulrhmanSayedAli/My-Clinic/blob/main/my%20clinic%201.png)
 
-* ![example 2](https://github.com/AbdulrhmanSayedAli/My-Clinic/blob/main/my%20clinic%202.png)
-
 * ![example 3](https://github.com/AbdulrhmanSayedAli/My-Clinic/blob/main/my%20clinic%203.png)
 
 * ![example 4](https://github.com/AbdulrhmanSayedAli/My-Clinic/blob/main/my%20clinic%204.png)
