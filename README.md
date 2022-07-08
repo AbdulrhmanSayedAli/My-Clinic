@@ -6,6 +6,11 @@ The application is dedicated to dentists so that it completely manages the affai
  - Add and arrange appointment schedules  
  - And many more features that can be identified by downloading the application
 
+# download link from github :
+
+[Download](https://drive.google.com/file/d/1NPrcMA_GWpf4yhREXP8Np1NplqSYXxvV/view?usp=sharing)
+
+
 # screen shots :
 
 * ![example 1](https://github.com/AbdulrhmanSayedAli/My-Clinic/blob/main/my%20clinic%201.png)
@@ -19,8 +24,6 @@ The application is dedicated to dentists so that it completely manages the affai
 * ![example 5](https://github.com/AbdulrhmanSayedAli/My-Clinic/blob/main/my%20clinic%205.png)
 
 
-# download link from github :
 
-[Download](https://github.com/AbdulrhmanSayedAli/My-Clinic/blob/main/My%20Clinic.apk)
 
 
