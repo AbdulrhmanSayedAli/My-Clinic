@@ -16,6 +16,6 @@ The application is dedicated to dentists so that it completely manages the affai
 
 # download link from github :
 
-[Download](https://github.com/AbdulrhmanSayedAli/My-Clinic/blob/main/My%20Clinic.apk){: .btn}
+[Download](https://github.com/AbdulrhmanSayedAli/My-Clinic/blob/main/My%20Clinic.apk)
 
 
